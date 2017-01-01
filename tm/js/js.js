@@ -1,4 +1,3 @@
-// JavaScript Document
 window.onload=function(){
 	
 	var obox=document.getElementById('box');
