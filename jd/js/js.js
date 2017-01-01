@@ -1,5 +1,12 @@
-// JavaScript Document
 window.onload=function(){
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "../../../hm.baidu.com/hm.js-b8035dbe09bd3dce95a02430db98ce91";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	
 	var otimeboxM=document.getElementById('timeboxM');
 	var otimebox=document.getElementById('timebox');
 	var myDates=new Date();
